@@ -1,10 +1,7 @@
 this contain movie 
 shole
 gajani
-<<<<<<< HEAD
 LAILA MAJANU
 gabbar
 thalapati
-=======
 seeta ramam
->>>>>>> 9a57a2ec70895376ea87b5c5c9e923ae702cf000
