@@ -1,1 +1,1 @@
-This is study file
+This is study not a file.
